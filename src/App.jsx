@@ -30,7 +30,7 @@ function App() {
          }}
       >
          <div className="w-full">
-            <h1 className="text-center text-3xl -mt-20 mb-14 font-bold backdrop-blur-sm bg-blue-200/30 py-2">Currency Converter</h1>
+            <h1 className="text-center text-white text-3xl -mt-20 mb-14 font-bold backdrop-blur-sm bg-blue-200/30 py-2">Currency Converter</h1>
 
             <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
                <form
@@ -79,7 +79,7 @@ function App() {
             </div>
 
             <article>
-               <p className="fixed bottom-2 w-full backdrop-blur-sm bg-blue-200/30  font-bold text-sm text-center mt-4 py-2">
+               <p className="fixed bottom-2 w-full backdrop-blur-sm bg-blue-200/30 text-white font-bold text-sm text-center mt-4 py-2">
                   ( Copyright &copy; by <a href="JavaScript:void(0)" className="underline">Muhammad Saad Jawed.</a> All rights
                   reserved. )
                </p>
